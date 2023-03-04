@@ -1,0 +1,21 @@
+﻿@model WebApplication1.Models.MailVM;
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Layout/MainLayout.cshtml";
+}
+
+<h3>@TempData["msg"]</h3>
+<h2>Welcome To your Mail</h2>
+<form asp-controller="Mail" asp-action="SendMail" method="post" class="form-group">
+    <label>Title</label>
+    <input type="text" asp-for="Title" class="form-control" />
+    <br />
+
+    <label>Message</label>
+    <textarea asp-for="Message" rows="4" class="form-control" ></textarea>
+    <br />
+
+    <input type="submit" value="Send" class="btn btn-primary" />
+
+</form>
+

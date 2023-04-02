@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XIK0FeYjUvionmk2UqEe8BQgKLj+pJ8Iuo6635IL5Pw8nS2zxMUQ0X+QdeFUGczewqvV2WWfrq4de88S0kRHJQ==",
+  "dgSpecHash": "+BeRO5SpuTI3xIBK32w2c7fsoygAzczZ8eatygIx34WqdAtSo5eeV7yQrthhKFimlY45LCtVNec87wIQG56R0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\engfa\\Projects\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\engfa\\Projects\\employee\\EmployeesManagementSystem\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\engfa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\engfa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
